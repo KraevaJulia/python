@@ -103,7 +103,7 @@ for el in cycle(my_list): #Повторяет элементы некоторо�
 print('Задание 7')
 from math import factorial
 
-def fact(): # prev_el - предыдущий элемент, el - текущий элемент
+def fact(): 
 	for el in count(1):
 		yield factorial(el)
 
