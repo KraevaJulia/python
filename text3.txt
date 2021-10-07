@@ -1,0 +1,6 @@
+Antonov 3000
+Ivanov 21000
+Kraeva 30000
+Sidorov 8000
+Petrov 70000
+Sokolov 22000
